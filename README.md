@@ -1,6 +1,7 @@
 ## Création d'une api sécurisée
 
-Le but du projet était de créer une API sécurisée pour une application d'avis gastronomique. <br>
+Le but du projet était de créer une API sécurisée pour une application d'avis gastronomique <br>
+avec un front-end déjà existant.
 
 ## Lancer le projet
 
